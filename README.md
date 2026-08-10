@@ -17,14 +17,12 @@ Users that have joined the organization.
 <br /> 
 <h2>Mover</h2> 
 <p> 
-<img width="999" height="764" alt="image" 
-src="https://github.com/user-attachments/assets/425ff6e0-6bf2-467a-9de5-7f9f6b64e188" /> 
+<img width="1903" height="871" alt="image" src="https://github.com/user-attachments/assets/0df207fa-d843-4218-9119-96294b529442" />
 <p> 
-<img width="1024" height="759" alt="image" 
-src="https://github.com/user-attachments/assets/c97eaf5f-77f7-4591-9b7f-39647833afe8" /> 
+<img width="1902" height="865" alt="image" src="https://github.com/user-attachments/assets/3480b7fe-1c42-4972-9a05-067241fe9a07" />
 </p> 
 <p> 
-User that has transfered to another department in organization. Went from IT to HR. 
+User that has transferred to another department in organization. Went from IT to Member Enrollment. 
 </p> 
 <br /> 
 <h2>Leaver</h2> 
@@ -33,6 +31,6 @@ User that has transfered to another department in organization. Went from IT to 
 src="https://github.com/user-attachments/assets/db4ab28a-097b-4861-b38a-033efc63a127" /> 
 </p> 
 <p> 
-User that has left the organization. 
+Users that has left the organization. 
 </p> 
 <br />
