@@ -9,11 +9,10 @@ Entra ID.<br />
 <h2>Operating Systems Used </h2> - Windows 11 
 <h2>Joiner</h2> 
 <p> 
-<img width="1919" height="628" alt="image" 
-src="https://github.com/user-attachments/assets/608b84c3-7759-4cd1-be2e-fc14d98a658b" /> 
+<img width="1903" height="872" alt="image" src="https://github.com/user-attachments/assets/ec5eb805-06a9-4c57-8efc-028d0562db4c" />
 </p> 
 <p> 
-User's that have Joined organization. 
+Users that have joined the organization. 
 </p> 
 <br /> 
 <h2>Mover</h2> 
