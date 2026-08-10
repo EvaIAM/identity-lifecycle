@@ -27,8 +27,7 @@ User that has transferred to another department in organization. Went from IT to
 <br /> 
 <h2>Leaver</h2> 
 <p> 
-<img width="1918" height="740" alt="image" 
-src="https://github.com/user-attachments/assets/db4ab28a-097b-4861-b38a-033efc63a127" /> 
+<img width="1907" height="867" alt="image" src="https://github.com/user-attachments/assets/98d6ac54-2f65-4f46-934b-fece5683741a" />
 </p> 
 <p> 
 Users that has left the organization. 
